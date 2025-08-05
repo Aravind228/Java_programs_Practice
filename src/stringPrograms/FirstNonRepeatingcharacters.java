@@ -25,6 +25,8 @@ public class FirstNonRepeatingcharacters {
                 break;
             }
 
+            //Just added one line
+
            }
 
 
